@@ -1,4 +1,5 @@
 build
 .gradle
 .idea
-.discovery-service.iml
+discovery-service.iml
+**/*.iml
