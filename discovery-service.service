@@ -1,0 +1,9 @@
+[Unit]
+Description=myapp
+After=syslog.target
+
+[Service]
+ExecStart=/opt/discovery-service/bin/discovery-service
+
+[Install]
+WantedBy=multi-user.target
