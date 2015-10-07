@@ -1,5 +1,5 @@
 [Unit]
-Description=myapp
+Description=discovery-service
 After=syslog.target
 
 [Service]
